@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Jenkins CI/CD Pipeline Project
 
 ## 📌 Objective
@@ -85,3 +86,6 @@ jenkins-ci-cd-pipeline/
 ---
 
 ✅ **Outcome**: You’ve automated the process of building, testing, containerizing, and deploying an app using Jenkins Pipeline.
+=======
+# -Simple-Jenkins-Pipeline
+>>>>>>> 859361bc9e971324a09391ead3124a7e4f90782b
